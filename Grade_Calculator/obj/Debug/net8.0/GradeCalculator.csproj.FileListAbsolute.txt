@@ -1,0 +1,29 @@
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\bin\Debug\net8.0\GradeCalculator.exe
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\bin\Debug\net8.0\GradeCalculator.deps.json
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\bin\Debug\net8.0\GradeCalculator.runtimeconfig.json
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\bin\Debug\net8.0\GradeCalculator.dll
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\bin\Debug\net8.0\GradeCalculator.pdb
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.dll
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\refint\GradeCalculator.dll
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.pdb
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\FORSON\Documents\GitHub\New folder\GradeCalculator\obj\Debug\net8.0\ref\GradeCalculator.dll
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\bin\Debug\net8.0\GradeCalculator.exe
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\bin\Debug\net8.0\GradeCalculator.deps.json
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\bin\Debug\net8.0\GradeCalculator.runtimeconfig.json
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\bin\Debug\net8.0\GradeCalculator.dll
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\bin\Debug\net8.0\GradeCalculator.pdb
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.sourcelink.json
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.dll
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\refint\GradeCalculator.dll
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.pdb
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\Hp\Desktop\Github\-dcit318-assignment1-10918686\Grade_Calculator\obj\Debug\net8.0\ref\GradeCalculator.dll
